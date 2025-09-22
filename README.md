@@ -1,3 +1,60 @@
+# File Organizer with Gemini README Generator
+
+This utility scans a folder, creates a new subfolder for each file, copies or moves the file into it, and generates a README.md per item using Google Gemini (optional).
+
+## 1) Setup
+
+1. Install Python 3.9+
+2. Create a virtual environment (recommended):
+   ```bash
+   python3 -m venv .venv && source .venv/bin/activate
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Configure your Google API key (optional, for AI generation):
+   - Copy `.env.example` to `.env`
+   - Paste your key: `GOOGLE_API_KEY=...`
+
+If you skip the API key, pass `--skip-ai` and the script will generate a simple README template instead.
+
+## 2) Usage
+
+Basic:
+```bash
+python3 organize_with_gemini.py --source-dir /absolute/path/to/folder
+```
+
+Options:
+- `--output-dir`: Destination base (default: `<source>_organized`)
+- `--move`: Move instead of copy (default is copy)
+- `--include-ext`: Comma-separated filter (e.g., `.py,.md`)
+- `--exclude-ext`: Comma-separated exclusion list (e.g., `.png,.jpg`)
+- `--readme-filename`: Name for generated readme (default `README.md`)
+- `--model`: Gemini model (default `gemini-1.5-flash`)
+- `--skip-ai`: Disable AI and use a fallback template
+- `--overwrite`: Overwrite existing folders/READMEs
+- `--dry-run`: Print actions without making changes
+- `--verbose`: More logs
+
+Examples:
+```bash
+# Copy files and generate AI README
+python3 organize_with_gemini.py --source-dir /data/my_files
+
+# Move files, restrict to .py and .md, skip AI
+python3 organize_with_gemini.py --source-dir /data/my_files --move --include-ext .py,.md --skip-ai
+
+# Custom output directory and model
+python3 organize_with_gemini.py --source-dir /data/my_files --output-dir /data/organized --model gemini-1.5-pro
+```
+
+## Notes
+- The script reads a small snippet of each file (if textual) to help Gemini infer a purpose.
+- If a target subfolder already exists and `--overwrite` is not set, it will be skipped.
+- Hidden files are included if present in the source directory.
+
 # Telegram Group File Collector
 
 This bot collects all groups/channels that it has access to, retrieves all files from each group, and saves the data to JSON for reuse.
