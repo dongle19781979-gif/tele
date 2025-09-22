@@ -128,3 +128,9 @@ These alternatives can access full chat history but require user account setup a
 2. **"Error getting groups"**: Ensure your bot is added to at least one group
 3. **"Error getting files"**: Check if the bot has permission to read messages in the group
 4. **Empty results**: Make sure there are recent messages in the groups (the bot uses `get_updates()` to discover groups)
+
+---
+
+### Additional Tools
+
+- See `GENERATE_FOLDERS_README.md` for a CLI that scans any folder, creates a subfolder per file, optionally copies the file, and generates an AI-assisted README for each.
