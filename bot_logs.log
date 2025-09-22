@@ -1,0 +1,170 @@
+2025-09-21 12:25:39,407 - INFO - Starting data collection...
+2025-09-21 12:25:40,130 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:25:40,131 - INFO - Found 0 groups/channels
+2025-09-21 12:25:40,131 - INFO - Data collection completed. Processed 0 groups.
+2025-09-21 12:25:40,132 - INFO - Data saved to telegram_groups_data.json
+2025-09-21 12:28:23,470 - INFO - Starting data collection...
+2025-09-21 12:28:24,179 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:28:24,180 - INFO - Found 1 groups/channels
+2025-09-21 12:28:24,180 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:30:56,743 - INFO - Starting data collection...
+2025-09-21 12:30:57,447 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:30:57,448 - INFO - Found 1 groups/channels
+2025-09-21 12:30:57,448 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:32:19,966 - INFO - Starting data collection...
+2025-09-21 12:32:20,684 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:32:20,685 - INFO - Found 1 groups/channels
+2025-09-21 12:32:20,686 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:33:36,820 - INFO - Starting data collection...
+2025-09-21 12:33:37,576 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:33:37,577 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939) - Found 0 files
+2025-09-21 12:33:37,577 - INFO - Data collection completed. Processed 1 groups.
+2025-09-21 12:33:37,578 - INFO - Data saved to telegram_groups_data.json
+2025-09-21 12:35:31,266 - INFO - Starting data collection...
+2025-09-21 12:35:31,982 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:35:31,985 - INFO - Found 1 groups/channels
+2025-09-21 12:35:31,985 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:36:07,739 - INFO - Starting data collection...
+2025-09-21 12:36:08,472 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:36:08,474 - INFO - Found 1 groups/channels
+2025-09-21 12:36:08,474 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:36:08,711 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:38:01,656 - INFO - Data collection completed. Processed 1 groups.
+2025-09-21 12:38:01,657 - ERROR - Error saving to JSON: Object of type Update is not JSON serializable
+2025-09-21 12:38:12,147 - INFO - Starting data collection...
+2025-09-21 12:38:12,872 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:38:12,874 - INFO - Found 1 groups/channels
+2025-09-21 12:38:12,875 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:38:13,112 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:39:26,629 - INFO - Starting data collection...
+2025-09-21 12:39:27,350 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:39:27,352 - INFO - Found 1 groups/channels
+2025-09-21 12:39:27,352 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:39:27,589 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:39:59,371 - INFO - Starting data collection...
+2025-09-21 12:40:00,093 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:40:00,096 - INFO - Found 1 groups/channels
+2025-09-21 12:40:00,096 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:40:00,328 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:41:57,421 - INFO - Starting data collection...
+2025-09-21 12:41:58,134 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:41:58,136 - INFO - Found 1 groups/channels
+2025-09-21 12:41:58,137 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:41:58,374 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:42:57,875 - INFO - Starting data collection...
+2025-09-21 12:42:58,594 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:42:58,597 - INFO - Found 1 groups/channels
+2025-09-21 12:42:58,597 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:42:58,829 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:43:36,935 - INFO - Starting data collection...
+2025-09-21 12:43:37,663 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 12:43:37,666 - INFO - Found 1 groups/channels
+2025-09-21 12:43:37,666 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 12:43:37,898 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 13:04:46,482 - INFO - Data collection completed. Processed 1 groups.
+2025-09-21 17:33:01,259 - ERROR - Error saving to JSON: Object of type Update is not JSON serializable
+2025-09-21 17:36:44,449 - INFO - Starting data collection...
+2025-09-21 17:36:45,182 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:36:45,185 - INFO - Found 1 groups/channels
+2025-09-21 17:36:45,185 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 17:36:45,417 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:36:47,592 - INFO - Data collection completed. Processed 1 groups.
+2025-09-21 17:36:48,099 - ERROR - Error saving to JSON: Object of type Update is not JSON serializable
+2025-09-21 17:38:19,626 - INFO - Starting data collection...
+2025-09-21 17:38:20,354 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:38:20,358 - INFO - Found 1 groups/channels
+2025-09-21 17:38:20,358 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 17:38:20,592 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:38:20,593 - INFO - Found 0 files in chat -1002903482939 from updates
+2025-09-21 17:38:26,276 - INFO - Data collection completed. Processed 1 groups.
+2025-09-21 17:38:29,448 - INFO - Data saved to telegram_groups_data.json
+2025-09-21 17:39:22,381 - INFO - Starting data collection...
+2025-09-21 17:39:23,106 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:39:23,108 - INFO - Found 1 groups/channels
+2025-09-21 17:39:23,109 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 17:39:23,346 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:39:23,346 - INFO - Found 0 files in chat -1002903482939 from updates
+2025-09-21 17:40:06,034 - INFO - Starting data collection...
+2025-09-21 17:40:06,766 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:40:06,770 - INFO - Found 1 groups/channels
+2025-09-21 17:40:06,770 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 17:40:07,003 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:42:18,799 - INFO - Starting data collection...
+2025-09-21 17:42:19,525 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:42:19,530 - INFO - Found 1 groups/channels
+2025-09-21 17:42:19,530 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 17:42:19,761 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:42:31,535 - INFO - Starting data collection...
+2025-09-21 17:42:32,255 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:42:32,258 - INFO - Found 1 groups/channels
+2025-09-21 17:42:32,258 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 17:42:32,492 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:43:30,179 - INFO - Starting data collection...
+2025-09-21 17:43:30,928 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 17:43:30,931 - INFO - Found 1 groups/channels
+2025-09-21 17:43:30,931 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-21 17:43:31,168 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-21 18:24:03,944 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-21 18:24:04,259 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 413 Request Entity Too Large"
+2025-09-21 18:26:08,431 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 413 Request Entity Too Large"
+2025-09-22 01:19:21,927 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:19:22,156 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:19:22,385 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:19:22,621 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:19:22,856 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:19:23,090 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:19:23,320 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:19:23,549 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getFile "HTTP/1.1 400 Bad Request"
+2025-09-22 01:21:35,837 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:22:15,358 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:22:31,740 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:22:54,287 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:22:54,641 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 413 Request Entity Too Large"
+2025-09-22 01:23:30,623 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:23:34,473 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:24:07,407 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:24:07,656 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 413 Request Entity Too Large"
+2025-09-22 01:25:13,925 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 400 Bad Request"
+2025-09-22 01:32:55,875 - INFO - Starting data collection...
+2025-09-22 01:32:56,584 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 01:32:56,584 - INFO - Found 1 groups/channels
+2025-09-22 01:32:56,584 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-22 01:32:56,816 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 01:32:56,816 - INFO - Found 0 files in chat -1002903482939 from updates
+2025-09-22 01:32:56,816 - INFO - Data collection completed. Processed 1 groups.
+2025-09-22 01:32:56,816 - INFO - Data saved to telegram_groups_data.json
+2025-09-22 01:33:52,096 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 01:34:19,932 - INFO - Starting data collection...
+2025-09-22 01:34:20,641 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 01:34:20,643 - INFO - Found 1 groups/channels
+2025-09-22 01:34:20,643 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-22 01:34:20,878 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 01:34:20,878 - INFO - Found 0 files in chat -1002903482939 from updates
+2025-09-22 01:34:20,880 - INFO - Data collection completed. Processed 1 groups.
+2025-09-22 01:34:20,880 - INFO - Data saved to telegram_groups_data.json
+2025-09-22 02:01:18,347 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 02:35:15,352 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 02:36:30,300 - INFO - Starting data collection...
+2025-09-22 02:36:31,062 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 02:36:31,064 - INFO - Found 1 groups/channels
+2025-09-22 02:36:31,064 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-22 02:36:31,292 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 02:36:31,303 - INFO - Found 0 files in chat -1002903482939 from updates
+2025-09-22 02:36:31,303 - INFO - Data collection completed. Processed 1 groups.
+2025-09-22 02:36:31,303 - INFO - Data saved to telegram_groups_data.json
+2025-09-22 02:37:11,259 - INFO - Starting data collection...
+2025-09-22 02:37:11,976 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 02:37:11,985 - INFO - Found 1 groups/channels
+2025-09-22 02:37:11,985 - INFO - Processing group: Windows Tips & Tools, Key activate, share (ID: -1002903482939)
+2025-09-22 02:37:12,217 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getUpdates "HTTP/1.1 200 OK"
+2025-09-22 02:37:12,217 - INFO - Found 0 files in chat -1002903482939 from updates
+2025-09-22 02:37:12,217 - INFO - Data collection completed. Processed 1 groups.
+2025-09-22 02:37:12,217 - INFO - Data saved to telegram_groups_data.json
+2025-09-22 02:38:03,645 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 200 OK"
+2025-09-22 05:22:07,565 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 200 OK"
+2025-09-22 05:22:49,023 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 200 OK"
+2025-09-22 05:22:59,939 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 200 OK"
+2025-09-22 05:23:59,954 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 200 OK"
+2025-09-22 05:24:28,086 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 200 OK"
+2025-09-22 05:24:32,560 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 200 OK"
+2025-09-22 05:25:12,821 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/sendDocument "HTTP/1.1 200 OK"

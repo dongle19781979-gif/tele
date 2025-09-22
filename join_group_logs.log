@@ -1,0 +1,114 @@
+2025-09-22 05:47:05,345 - INFO - Read 22 groups from groups.txt
+2025-09-22 05:47:05,345 - INFO - Processing 22 groups...
+2025-09-22 05:47:05,345 - INFO - Processing group 1/22: https://t.me/vebobcr
+2025-09-22 05:47:05,346 - INFO - Starting crawl for group: https://t.me/vebobcr
+2025-09-22 05:47:06,067 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:06,067 - ERROR - Failed to access group https://t.me/vebobcr: Chat not found
+2025-09-22 05:47:06,068 - WARNING - Failed to crawl group: https://t.me/vebobcr
+2025-09-22 05:47:08,069 - INFO - Processing group 2/22: https://t.me/jddkddddckk
+2025-09-22 05:47:08,069 - INFO - Starting crawl for group: https://t.me/jddkddddckk
+2025-09-22 05:47:08,305 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:08,306 - ERROR - Failed to access group https://t.me/jddkddddckk: Chat not found
+2025-09-22 05:47:08,306 - WARNING - Failed to crawl group: https://t.me/jddkddddckk
+2025-09-22 05:47:10,310 - INFO - Processing group 3/22: https://t.me/BIGWIN6666
+2025-09-22 05:47:10,310 - INFO - Starting crawl for group: https://t.me/BIGWIN6666
+2025-09-22 05:47:10,545 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:10,546 - ERROR - Failed to access group https://t.me/BIGWIN6666: Chat not found
+2025-09-22 05:47:10,546 - WARNING - Failed to crawl group: https://t.me/BIGWIN6666
+2025-09-22 05:47:12,558 - INFO - Processing group 4/22: https://t.me/tollvipbacArat
+2025-09-22 05:47:12,558 - INFO - Starting crawl for group: https://t.me/tollvipbacArat
+2025-09-22 05:47:12,794 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:12,794 - ERROR - Failed to access group https://t.me/tollvipbacArat: Chat not found
+2025-09-22 05:47:12,794 - WARNING - Failed to crawl group: https://t.me/tollvipbacArat
+2025-09-22 05:47:14,803 - INFO - Processing group 5/22: https://t.me/dongquan79winclub
+2025-09-22 05:47:14,803 - INFO - Starting crawl for group: https://t.me/dongquan79winclub
+2025-09-22 05:47:15,038 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:15,039 - ERROR - Failed to access group https://t.me/dongquan79winclub: Chat not found
+2025-09-22 05:47:15,039 - WARNING - Failed to crawl group: https://t.me/dongquan79winclub
+2025-09-22 05:47:17,053 - INFO - Processing group 6/22: https://t.me/kiemtienkieutrang
+2025-09-22 05:47:17,053 - INFO - Starting crawl for group: https://t.me/kiemtienkieutrang
+2025-09-22 05:47:17,288 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:17,289 - ERROR - Failed to access group https://t.me/kiemtienkieutrang: Chat not found
+2025-09-22 05:47:17,289 - WARNING - Failed to crawl group: https://t.me/kiemtienkieutrang
+2025-09-22 05:47:19,304 - INFO - Processing group 7/22: https://t.me/fsgfxfjggfu
+2025-09-22 05:47:19,304 - INFO - Starting crawl for group: https://t.me/fsgfxfjggfu
+2025-09-22 05:47:19,541 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:19,542 - ERROR - Failed to access group https://t.me/fsgfxfjggfu: Chat not found
+2025-09-22 05:47:19,542 - WARNING - Failed to crawl group: https://t.me/fsgfxfjggfu
+2025-09-22 05:47:21,555 - INFO - Processing group 8/22: https://t.me/hupvebo79
+2025-09-22 05:47:21,555 - INFO - Starting crawl for group: https://t.me/hupvebo79
+2025-09-22 05:47:21,789 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:21,790 - ERROR - Failed to access group https://t.me/hupvebo79: Chat not found
+2025-09-22 05:47:21,790 - WARNING - Failed to crawl group: https://t.me/hupvebo79
+2025-09-22 05:47:23,799 - INFO - Processing group 9/22: https://t.me/GROUPBACARATKEOANHEMVEBO
+2025-09-22 05:47:23,799 - INFO - Starting crawl for group: https://t.me/GROUPBACARATKEOANHEMVEBO
+2025-09-22 05:47:24,033 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:24,034 - ERROR - Failed to access group https://t.me/GROUPBACARATKEOANHEMVEBO: Chat not found
+2025-09-22 05:47:24,034 - WARNING - Failed to crawl group: https://t.me/GROUPBACARATKEOANHEMVEBO
+2025-09-22 05:47:26,035 - INFO - Processing group 10/22: https://t.me/cutodenhoi22
+2025-09-22 05:47:26,035 - INFO - Starting crawl for group: https://t.me/cutodenhoi22
+2025-09-22 05:47:26,271 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:26,272 - ERROR - Failed to access group https://t.me/cutodenhoi22: Chat not found
+2025-09-22 05:47:26,272 - WARNING - Failed to crawl group: https://t.me/cutodenhoi22
+2025-09-22 05:47:28,285 - INFO - Processing group 11/22: https://t.me/KEHOACHTRIEUDO
+2025-09-22 05:47:28,285 - INFO - Starting crawl for group: https://t.me/KEHOACHTRIEUDO
+2025-09-22 05:47:28,521 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:28,521 - ERROR - Failed to access group https://t.me/KEHOACHTRIEUDO: Chat not found
+2025-09-22 05:47:28,522 - WARNING - Failed to crawl group: https://t.me/KEHOACHTRIEUDO
+2025-09-22 05:47:30,534 - INFO - Processing group 12/22: https://t.me/antoanbaomta
+2025-09-22 05:47:30,535 - INFO - Starting crawl for group: https://t.me/antoanbaomta
+2025-09-22 05:47:30,769 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:30,770 - ERROR - Failed to access group https://t.me/antoanbaomta: Chat not found
+2025-09-22 05:47:30,770 - WARNING - Failed to crawl group: https://t.me/antoanbaomta
+2025-09-22 05:47:32,784 - INFO - Processing group 13/22: https://t.me/hoangyenkl
+2025-09-22 05:47:32,784 - INFO - Starting crawl for group: https://t.me/hoangyenkl
+2025-09-22 05:47:33,019 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:33,019 - ERROR - Failed to access group https://t.me/hoangyenkl: Chat not found
+2025-09-22 05:47:33,020 - WARNING - Failed to crawl group: https://t.me/hoangyenkl
+2025-09-22 05:47:35,033 - INFO - Processing group 14/22: https://t.me/DKNFBDKF
+2025-09-22 05:47:35,034 - INFO - Starting crawl for group: https://t.me/DKNFBDKF
+2025-09-22 05:47:35,275 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:35,276 - ERROR - Failed to access group https://t.me/DKNFBDKF: Chat not found
+2025-09-22 05:47:35,276 - WARNING - Failed to crawl group: https://t.me/DKNFBDKF
+2025-09-22 05:47:37,278 - INFO - Processing group 15/22: https://t.me/hothotapp
+2025-09-22 05:47:37,278 - INFO - Starting crawl for group: https://t.me/hothotapp
+2025-09-22 05:47:37,518 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:37,519 - ERROR - Failed to access group https://t.me/hothotapp: Chat not found
+2025-09-22 05:47:37,519 - WARNING - Failed to crawl group: https://t.me/hothotapp
+2025-09-22 05:47:39,530 - INFO - Processing group 16/22: https://t.me/duakhachsangsong96
+2025-09-22 05:47:39,530 - INFO - Starting crawl for group: https://t.me/duakhachsangsong96
+2025-09-22 05:47:39,766 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:39,766 - ERROR - Failed to access group https://t.me/duakhachsangsong96: Chat not found
+2025-09-22 05:47:39,767 - WARNING - Failed to crawl group: https://t.me/duakhachsangsong96
+2025-09-22 05:47:41,781 - INFO - Processing group 17/22: https://t.me/batcamapkiemtien
+2025-09-22 05:47:41,781 - INFO - Starting crawl for group: https://t.me/batcamapkiemtien
+2025-09-22 05:47:42,018 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:42,019 - ERROR - Failed to access group https://t.me/batcamapkiemtien: Chat not found
+2025-09-22 05:47:42,019 - WARNING - Failed to crawl group: https://t.me/batcamapkiemtien
+2025-09-22 05:47:44,029 - INFO - Processing group 18/22: https://t.me/noiduynhat
+2025-09-22 05:47:44,029 - INFO - Starting crawl for group: https://t.me/noiduynhat
+2025-09-22 05:47:44,267 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:44,268 - ERROR - Failed to access group https://t.me/noiduynhat: Chat not found
+2025-09-22 05:47:44,268 - WARNING - Failed to crawl group: https://t.me/noiduynhat
+2025-09-22 05:47:46,277 - INFO - Processing group 19/22: https://t.me/baccarat3lenh68
+2025-09-22 05:47:46,277 - INFO - Starting crawl for group: https://t.me/baccarat3lenh68
+2025-09-22 05:47:46,530 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:46,530 - ERROR - Failed to access group https://t.me/baccarat3lenh68: Chat not found
+2025-09-22 05:47:46,531 - WARNING - Failed to crawl group: https://t.me/baccarat3lenh68
+2025-09-22 05:47:48,541 - INFO - Processing group 20/22: https://t.me/tiennhieu8386
+2025-09-22 05:47:48,541 - INFO - Starting crawl for group: https://t.me/tiennhieu8386
+2025-09-22 05:47:48,776 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:48,776 - ERROR - Failed to access group https://t.me/tiennhieu8386: Chat not found
+2025-09-22 05:47:48,776 - WARNING - Failed to crawl group: https://t.me/tiennhieu8386
+2025-09-22 05:47:50,779 - INFO - Processing group 21/22: https://t.me/AENHAPHUCCHANG
+2025-09-22 05:47:50,779 - INFO - Starting crawl for group: https://t.me/AENHAPHUCCHANG
+2025-09-22 05:47:51,016 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:51,016 - ERROR - Failed to access group https://t.me/AENHAPHUCCHANG: Chat not found
+2025-09-22 05:47:51,017 - WARNING - Failed to crawl group: https://t.me/AENHAPHUCCHANG
+2025-09-22 05:47:53,019 - INFO - Processing group 22/22: https://t.me/tuanlebcr888A
+2025-09-22 05:47:53,019 - INFO - Starting crawl for group: https://t.me/tuanlebcr888A
+2025-09-22 05:47:53,254 - INFO - HTTP Request: POST https://api.telegram.org/bot7844532207:AAFBsx9V8B7zUKI-Q3slf9kXkZDOCirP7cA/getChat "HTTP/1.1 400 Bad Request"
+2025-09-22 05:47:53,254 - ERROR - Failed to access group https://t.me/tuanlebcr888A: Chat not found
+2025-09-22 05:47:53,254 - WARNING - Failed to crawl group: https://t.me/tuanlebcr888A
+2025-09-22 05:47:55,258 - INFO - Completed processing 22 groups
+2025-09-22 05:47:55,258 - INFO - Data saved to group_crawl_data.json
